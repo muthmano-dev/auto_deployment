@@ -1,6 +1,6 @@
 
 def out():
-  print "hello there haha"
+  return "hello there haha"
 
 
 
